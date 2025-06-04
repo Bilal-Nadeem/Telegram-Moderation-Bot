@@ -1,6 +1,6 @@
 # Telegram Moderation Bot
 
-This is a Python-based Telegram bot that helps manage a Telegram group by setting daily message limits, locking/unlocking the group or individual users, and managing a whitelist for allowed URLs.
+This is a Python-based Telegram Moderation bot that helps manage a Telegram group by setting daily message limits, locking/unlocking the group or individual users, and managing a whitelist for allowed URLs.
 
 ## Features
 
