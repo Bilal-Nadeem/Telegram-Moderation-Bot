@@ -36,7 +36,7 @@ This is a Python-based Telegram bot that helps manage a Telegram group by settin
    pip install python-telegram-bot pytz
    ```
 
-4. Replace "Token" with your actual Telegram Bot API token in the code.
+4. Replace "Token" with your actual Telegram Bot API token from Bot Father in the code.
     
 ## Usage
 
